@@ -50,6 +50,26 @@ Then you can start Mosquitto:
 docker compose up -d
 ```
 
+Then Docker download mosquitto image and start the container.
+
+
+```bash
+PS C:\Projects\00-Docker-Projects\mosquitto-compose> docker compose up -d
+[+] Running 4/4
+ ✔ mosquitto Pulled                                                                                                4.1s
+   ✔ 619be1103602 Pull complete                                                                                    1.2s
+   ✔ 8432d2a45fb0 Pull complete                                                                                    1.4s
+   ✔ 01fa0d8dc76f Pull complete                                                                                    1.5s
+[+] Running 2/2
+ ✔ Network mosquitto-compose_default  Created                                                                      0.2s
+ ✔ Container mosquitto                Started                                                                      0.7s
+PS C:\Projects\00-Docker-Projects\mosquitto-compose>
+```
+
+Now the Mosquitto broker is available at `localhost` port `1883`. 
+
+You can test with a client like [MQTTX](https://mqttx.app/downloads).
+
 
 ## References
 

@@ -43,3 +43,21 @@
 1718794918: Opening ipv4 listen socket on port 1883.
 1718794918: Opening ipv6 listen socket on port 1883.
 1718794918: mosquitto version 2.0.18 running
+1718795070: New connection from 172.22.0.1:45136 on port 1883.
+1718795070: New client connected from 172.22.0.1:45136 as mqttx_b68078cc (p5, c1, k60).
+1718795679: Client mqttx_b68078cc has exceeded timeout, disconnecting.
+1718795684: New connection from 172.22.0.1:52368 on port 1883.
+1718795684: New client connected from 172.22.0.1:52368 as mqttx_b68078cc (p5, c1, k60).
+1718796159: Client mqttx_b68078cc has exceeded timeout, disconnecting.
+1718796164: New connection from 172.22.0.1:54748 on port 1883.
+1718796164: New client connected from 172.22.0.1:54748 as mqttx_b68078cc (p5, c1, k60).
+1718796266: New connection from 172.22.0.1:47062 on port 1883.
+1718796266: New client connected from 172.22.0.1:47062 as OmatrixTechExplorer-f55440d6-231c-4090-bcb9-cc95ae4e85bc (p5, c1, k10, u'mqtt-client').
+1718796280: New connection from 172.22.0.1:35890 on port 1883.
+1718796280: New client connected from 172.22.0.1:35890 as OmatrixTechExplorer-e71a5ec7-bcbb-4a4b-bbfa-384ae9432269 (p5, c1, k10, u'mqtt-client').
+1718796442: Client OmatrixTechExplorer-e71a5ec7-bcbb-4a4b-bbfa-384ae9432269 closed its connection.
+1718796447: Client OmatrixTechExplorer-f55440d6-231c-4090-bcb9-cc95ae4e85bc closed its connection.
+1718796474: Client mqttx_b68078cc disconnected.
+1718796718: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718797960: mosquitto version 2.0.18 terminating
+1718797960: Saving in-memory database to /mosquitto/data//mosquitto.db.
