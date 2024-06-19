@@ -4,9 +4,6 @@ This is a simple [Mosquitto](https://mosquitto.org) broker to quickly initialize
 
 ## Prerequisite
 
-- [Docker Desktop](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/) - included in Docker Desktop
-
 Before you can deploy Mosquitto using Docker Compose, you will need to have a few things in place. Here are the prerequisites:
 
 - **Docker** - You will need to have [Docker](https://docs.docker.com/get-docker/) installed on your system. If you don't have Docker installed already, you can download it from the official Docker website. Be sure to download the version that is appropriate for your operating system.
@@ -17,7 +14,7 @@ Before you can deploy Mosquitto using Docker Compose, you will need to have a fe
 
 The config file is in the file [mosquito.conf](./config/mosquitto.conf)
 
-By default we activated the log and data persistance (logs are in the `log` folder, and data are stored in a docker volume).
+By default it's activated the log and data persistance (logs are in the `log` folder, and data are stored in a docker volume).
 
 
 ## Authentication
@@ -53,4 +50,11 @@ Then you can start Mosquitto:
 docker compose up -d
 ```
 
+
+## References
+
+For creating this repo I used the following references:
+
+- [How to setup Mosquitto MQTT Broker using docker](https://github.com/sukesh-ak/setup-mosquitto-with-docker)
+- [Simple Mosquitto broker](https://github.com/vvatelot/mosquitto-docker-compose)
 
