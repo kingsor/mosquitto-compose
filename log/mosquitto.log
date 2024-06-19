@@ -1,0 +1,17 @@
+1718636884: mosquitto version 2.0.18 starting
+1718636884: Config loaded from /mosquitto/config/mosquitto.conf.
+1718636884: Opening ipv4 listen socket on port 1883.
+1718636884: Opening ipv6 listen socket on port 1883.
+1718636884: mosquitto version 2.0.18 running
+1718637035: New connection from 172.22.0.1:59758 on port 1883.
+1718637035: New client connected from 172.22.0.1:59758 as OmatrixTechExplorer-1d860e80-364a-4b8a-b2f9-782ff786e083 (p5, c1, k10).
+1718637237: Client OmatrixTechExplorer-1d860e80-364a-4b8a-b2f9-782ff786e083 disconnected.
+1718637631: New connection from 172.22.0.1:41856 on port 1883.
+1718637631: New client connected from 172.22.0.1:41856 as OmatrixTechExplorer-c23a865c-95a8-44b0-aceb-a5e3ed745807 (p5, c1, k10).
+1718637634: New connection from 172.22.0.1:41862 on port 1883.
+1718637634: New client connected from 172.22.0.1:41862 as OmatrixTechExplorer-3d7a6e17-c9cd-4966-b850-860f31d376f3 (p5, c1, k10).
+1718637745: Client OmatrixTechExplorer-c23a865c-95a8-44b0-aceb-a5e3ed745807 disconnected.
+1718637750: Client OmatrixTechExplorer-3d7a6e17-c9cd-4966-b850-860f31d376f3 closed its connection.
+1718638684: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718639267: mosquitto version 2.0.18 terminating
+1718639267: Saving in-memory database to /mosquitto/data//mosquitto.db.
